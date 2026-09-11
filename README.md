@@ -60,5 +60,5 @@ gpu:
 ---
 
 ### 说明与免责声明
-* **开源协议**：本项目基于 Qdrant 的 [Apache-2.0 License](https://github.com/qdrant/qdrant/blob/master/LICENSE) 编译并分发。
+* **开源协议**：本项目基于 Qdrant 的 [Apache License 2.0](https://github.com/qdrant/qdrant/blob/master/LICENSE) 编译并分发。
 * **计算机制**：Qdrant 的 GPU 加速基于跨平台的 Vulkan API，主要用于大幅加速 HNSW 向量索引图的构建过程（Indexing）。
